@@ -1,0 +1,10 @@
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/uninstall.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/tracking_pkg_uninstall.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/moveit_mover.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/test.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/edit_cache.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/rebuild_cache.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/list_install_components.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/install.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/install/local.dir
+/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg/CMakeFiles/install/strip.dir

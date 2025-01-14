@@ -1,0 +1,27 @@
+[100%] Built target moveit_mover
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/hand_tracker.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/camera_publisher.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/frame_publisher.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/hand_pose_visualization_publisher.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/box_publisher.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/socket_mover.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/launch/moveit_launch.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/launch/web_socket_launch.py
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/moveit_mover
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/package_run_dependencies/tracking_pkg
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/parent_prefix_path/tracking_pkg
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/path.sh
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/path.dsv
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.bash
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.sh
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.zsh
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.dsv
+-- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/package.dsv
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/packages/tracking_pkg
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/cmake/tracking_pkgConfig.cmake
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/cmake/tracking_pkgConfig-version.cmake
+-- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/package.xml

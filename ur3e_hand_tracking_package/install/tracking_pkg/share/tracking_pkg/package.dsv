@@ -1,0 +1,8 @@
+source;share/tracking_pkg/hook/cmake_prefix_path.ps1
+source;share/tracking_pkg/hook/cmake_prefix_path.dsv
+source;share/tracking_pkg/hook/cmake_prefix_path.sh
+source;share/tracking_pkg/local_setup.bash
+source;share/tracking_pkg/local_setup.dsv
+source;share/tracking_pkg/local_setup.ps1
+source;share/tracking_pkg/local_setup.sh
+source;share/tracking_pkg/local_setup.zsh

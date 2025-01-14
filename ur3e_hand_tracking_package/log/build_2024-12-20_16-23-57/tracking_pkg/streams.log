@@ -1,0 +1,34 @@
+[0.057s] Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg -- -j8 -l8
+[0.314s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_mover.dir/src/moveit_mover/moveit_mover.cpp.o[0m
+[21.350s] [100%] [32m[1mLinking CXX executable moveit_mover[0m
+[22.817s] [100%] Built target moveit_mover
+[22.841s] Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg -- -j8 -l8
+[22.845s] Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg
+[22.861s] -- Install configuration: ""
+[22.864s] -- Execute custom install script
+[22.865s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/hand_tracker.py
+[22.866s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/camera_publisher.py
+[22.867s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/frame_publisher.py
+[22.868s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/hand_pose_visualization_publisher.py
+[22.869s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/box_publisher.py
+[22.869s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/socket_mover.py
+[22.869s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/gripper_mover.py
+[22.870s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/launch/moveit_launch.py
+[22.871s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/launch/web_socket_launch.py
+[22.872s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/lib/tracking_pkg/moveit_mover
+[22.872s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/package_run_dependencies/tracking_pkg
+[22.872s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/parent_prefix_path/tracking_pkg
+[22.873s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/ament_prefix_path.sh
+[22.873s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/ament_prefix_path.dsv
+[22.873s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/path.sh
+[22.874s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/environment/path.dsv
+[22.875s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.bash
+[22.875s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.sh
+[22.876s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.zsh
+[22.877s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/local_setup.dsv
+[22.878s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/package.dsv
+[22.905s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/ament_index/resource_index/packages/tracking_pkg
+[22.905s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/cmake/tracking_pkgConfig.cmake
+[22.905s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/cmake/tracking_pkgConfig-version.cmake
+[22.906s] -- Up-to-date symlink: /home/daniel/ur3e_hand_tracking_ros/install/tracking_pkg/share/tracking_pkg/package.xml
+[22.910s] Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg

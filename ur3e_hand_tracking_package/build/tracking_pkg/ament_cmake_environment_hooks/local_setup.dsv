@@ -1,0 +1,2 @@
+source;share/tracking_pkg/environment/ament_prefix_path.sh
+source;share/tracking_pkg/environment/path.sh

@@ -1,0 +1,53 @@
+[0.017s] Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake /home/daniel/ur3e_hand_tracking_ros/src/Universal_Robots_ROS2_Gazebo_Simulation/ur_simulation_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo
+[0.141s] -- The C compiler identification is GNU 11.4.0
+[0.300s] -- The CXX compiler identification is GNU 11.4.0
+[0.326s] -- Detecting C compiler ABI info
+[0.605s] -- Detecting C compiler ABI info - done
+[0.650s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.652s] -- Detecting C compile features
+[0.655s] -- Detecting C compile features - done
+[0.675s] -- Detecting CXX compiler ABI info
+[0.990s] -- Detecting CXX compiler ABI info - done
+[1.022s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.022s] -- Detecting CXX compile features
+[1.024s] -- Detecting CXX compile features - done
+[1.030s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.246s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.446s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.540s] -- Found launch_testing_ament_cmake: 1.0.6 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[2.545s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.627s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.672s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.673s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.673s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.674s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.769s] -- Found PythonExtra: .so  
+[2.780s] -- Found ament_cmake_pytest: 1.3.10 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[3.058s] -- Configuring done
+[3.065s] -- Generating done
+[3.070s] -- Build files have been written to: /home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo
+[3.090s] Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake /home/daniel/ur3e_hand_tracking_ros/src/Universal_Robots_ROS2_Gazebo_Simulation/ur_simulation_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo
+[3.096s] Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo -- -j8 -l8
+[3.208s] Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo -- -j8 -l8
+[3.228s] Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo
+[3.257s] -- Install configuration: ""
+[3.261s] -- Execute custom install script
+[3.262s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/config/ur_controllers.yaml
+[3.308s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/launch/ur_sim_control.launch.py
+[3.337s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/launch/ur_sim_moveit.launch.py
+[3.368s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ament_index/resource_index/package_run_dependencies/ur_simulation_gazebo
+[3.396s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ament_index/resource_index/parent_prefix_path/ur_simulation_gazebo
+[3.420s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/environment/ament_prefix_path.sh
+[3.457s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/environment/ament_prefix_path.dsv
+[3.485s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/environment/path.sh
+[3.514s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/environment/path.dsv
+[3.534s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/local_setup.bash
+[3.569s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/local_setup.sh
+[3.608s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/local_setup.zsh
+[3.647s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/local_setup.dsv
+[3.689s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/package.dsv
+[3.712s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ament_index/resource_index/packages/ur_simulation_gazebo
+[3.726s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/cmake/ur_simulation_gazeboConfig.cmake
+[3.744s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/cmake/ur_simulation_gazeboConfig-version.cmake
+[3.775s] -- Symlinking: /home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo/share/ur_simulation_gazebo/package.xml
+[3.817s] Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ur3e_hand_tracking_ros/install/ur_simulation_gazebo:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/ur_simulation_gazebo

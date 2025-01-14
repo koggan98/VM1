@@ -1,0 +1,4 @@
+Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg -- -j8 -l8
+Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg -- -j8 -l8
+Invoking command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg
+Invoked command in '/home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniel/ur3e_hand_tracking_ros/build/tracking_pkg
